@@ -49,7 +49,7 @@
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dipukanu&theme=dark&background=000000)](https://git.io/streak-stats)
  
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=dipukanu&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=dipukanu&layout=compact&langs_count=8&hide_border=false&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000)
 
 
 
