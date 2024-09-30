@@ -13,7 +13,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=dipukanu&style=flat-square&color=blue" alt="loading"/>
 <h1>
-  hey there
+  Hi, I'm Dipu Kanu
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   </div>
@@ -23,10 +23,11 @@
 <hr>
 
 ### :woman_technologist: About Me :
-- I’m Dipu Kanu, a full stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
-- 👀 I’m interested in Software Engineering and contributing to frontend and backend for building web applications.
-- 🌱 I’m currently learning API
-- :zap: I like to design software and learn something new in my free time.
+- 🚀 I'm a passionate Software Developer specializing in Backend Development from Bangladesh. I have strong expertise in Django, Django Rest Framework, and Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- 🔧 I build scalable applications using technologies like Redis, Elasticsearch, PostgreSQL, and Celery to ensure performance and reliability.
+- 💻 I'm experienced in integrating APIs, managing data, and improving system performance with a strong focus on code quality and secure practices.
+- 🌱 I’m always learning—currently diving deeper into API optimization and security best practices.
+- ⚡ I enjoy solving complex problems, writing unit tests, and continually improving my skills. In my free time, I love to explore cybersecurity and stay updated with the latest tech trends.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-DipuKanu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dipu-kanu-8a1883195/)
 
 <hr>
@@ -34,12 +35,17 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"  title="django" alt="django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"  title="django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" title="django rest framework" alt="Django Rest Framework" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" title="elasticsearch" alt="ElasticSearch" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" title="redis" alt="Redis" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" title="docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" title="firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
   
   </div>
