@@ -9,6 +9,9 @@
   <a href="twitter.com/kanu_dipu">
   <img src="https://shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge"/>
   </a>
+  <a href="https://github.com/dipu-repliq">
+    <img src="https://shields.io/badge/Official%20GitHub-black?logo=github&logoColor=white&style=for-the-badge"/>
+  </a>
  </div>
 
 <img src="https://komarev.com/ghpvc/?username=dipukanu&style=flat-square&color=blue" alt="loading"/>
